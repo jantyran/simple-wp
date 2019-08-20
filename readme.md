@@ -5,7 +5,7 @@ Overview
 Create a development environment for wordpress with mysql container.
 
 ## Description
-This create 2 containers. One is a wordpress container and the other is a container for mysql. You can access both from browsers or terminal through localhost and operate them.
+This creates 2 containers. One is a wordpress container and the other is for mysql. You can access both from browsers or terminal through localhost and operate them.
 _
 ## Demo
 
